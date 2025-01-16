@@ -10,3 +10,7 @@ I'm a passionate **game developer** always up for challenges 🚀
 
 ## 🎮 Explore My Games  
 Check out my creations and prototypes on **[itch.io](https://itch.io/profile/brendamareco)**!  
+
+## 🔬 Research  
+- [**Shannon Entropy is better Feature than Category and Sentiment in User Feedback Processing**](https://arxiv.org/abs/2409.12012)  
+- [GitHub Repository](https://github.com/brendaamareco/thesis)
