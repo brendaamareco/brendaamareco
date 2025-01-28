@@ -4,6 +4,7 @@ I'm a passionate **game developer** always up for challenges 🚀
 
 ## 🏆 Achievements  
 ### Game Jams & Hackathons  
+- **🥇 1st Place** - [Starknet Winter Hackathon](https://github.com/caravana-studio/jokers-of-neon-mods) - *Jokers of Neon Community MODS* *27/2025*
 - **🥇 1st Place** - [Dojo Game Jam, Spooky Edition](https://github.com/caravana-studio/jokers-ls-mod-client) - *Jokers of Neon x Loot Survivors MOD* *(10/2024)*  
 - **🥉 3rd Place** - [Starknet Winter Hackathon](https://github.com/amegakure-studio/verdania-unity) - *Verdania* *(02/2024)*
 - **🥈 2nd Place** - [Dojo Game Jam #3](https://github.com/amegakure-studio/starkane-gameJam-unity) - *Starkane* *(12/2023)*  
