@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! Welcome to my GitHub!
 
-I'm a passionate **game developer** always up for challenges 🚀
+I'm a passionate **game developer** always up for challenges 🚀 <img src="https://github.com/user-attachments/assets/95b24367-0085-4c83-9831-e42ae9e6b139" width="200px" height="auto" align='right'/>
 
 ## 🏆 Achievements  
 ### Game Jams & Hackathons  
