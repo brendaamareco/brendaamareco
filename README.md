@@ -1,6 +1,8 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! Welcome to my GitHub!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm Brenda!
 
-I'm a passionate **game developer** always up for challenges 🚀 <img src="https://i.pinimg.com/originals/7d/ec/c2/7decc2509100a6e8f68696e3319571a1.gif" width="250px" height="auto" align='right'/>
+I'm a software engineer working in the game industry,<br/> but I’m into building all sorts of software: games, tools, apps, you name it 🚀
+<br/> I’m always up for learning something new... <br/> whether it’s contributing to open source, joining a hackathon, or diving into a side project
+ <img src="https://i.pinimg.com/originals/7d/ec/c2/7decc2509100a6e8f68696e3319571a1.gif" width="250px" height="auto" align='right'/>
 
 ## 🏆 Achievements  
 ### Game Jams & Hackathons  
